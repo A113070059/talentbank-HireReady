@@ -1,0 +1,6 @@
+{
+  "name": "HireReady",
+  "description": "A student-first Career OS platform linking students, universities, and employers with skill evidence mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
